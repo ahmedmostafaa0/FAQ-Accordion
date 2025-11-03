@@ -2,9 +2,6 @@
 
 A responsive FAQ Accordion built with **React** and **Tailwind CSS**, featuring smooth toggles and a clean, modern design.
 
-## 🚀 Live Demo
-[View Project](https://github.com/ahmedmostafaa0/FAQ-Accordion)
-
 ## 🛠️ Technologies Used
 - React  
 - Tailwind CSS  
